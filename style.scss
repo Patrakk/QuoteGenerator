@@ -118,3 +118,9 @@ body {
         }
     }
 }
+
+@media screen and (max-width: 1000px){
+    #quote-container {
+        width: 90%;
+    }
+}

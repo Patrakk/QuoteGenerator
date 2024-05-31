@@ -102,4 +102,8 @@ body {
       left: 50%;
       transform: translate(-50%, -50%); }
 
+@media screen and (max-width: 1000px) {
+  #quote-container {
+    width: 90%; } }
+
 /*# sourceMappingURL=style.css.map */
